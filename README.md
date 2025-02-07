@@ -69,6 +69,7 @@
 
 - **KirillSher**
 - GitHub: [KirillSher](https://github.com/KirillSher)
+- Лицензия: MIT
 
 ## Ссылки
 
