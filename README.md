@@ -17,13 +17,10 @@
     ```bash
     composer install
     ```
-
-## Запуск игры
-
-Чтобы запустить игру, выполните команду:
-    ```bash
-    php bin/calculator
-    ```
+5. Запустите игру:
+   ```bash
+   php bin/calculator
+   ```
 
 ## Установка через Packagist
 
