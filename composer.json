@@ -1,0 +1,17 @@
+{
+    "name": "kirillsher/calculator",
+    "description": "Игра Калькулятор",
+    "type": "project",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.1"
+    },
+    "autoload": {
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    },
+    "bin": [
+        "bin/calculator"
+    ]
+}
