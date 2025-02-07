@@ -69,9 +69,9 @@
 
 - **KirillSher**
 - GitHub: [KirillSher](https://github.com/KirillSher)
-- Лицензия: MIT
 
 ## Ссылки
 
 - Packagist: [Calculator Game](https://github.com/KirillSher)
 - [Репозиторий на GitHub](https://github.com/KirillSher/calculator_game.git)
+- Лицензия: MIT
