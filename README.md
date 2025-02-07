@@ -27,7 +27,7 @@
 1. Убедитесь, что Composer установлен глобально.
 2. Установите игру:
     ```bash
-    composer global require ваш-логин/calculator
+    composer global require kirillsher/calculator
     ```
 3. Запустите игру из командной строки:
     ```bash
@@ -72,6 +72,6 @@
 
 ## Ссылки
 
-- Packagist: [Calculator Game](https://github.com/KirillSher)
+- Packagist: [Calculator Game](https://packagist.org/packages/kirillsher/calculator)
 - [Репозиторий на GitHub](https://github.com/KirillSher/calculator_game.git)
 - Лицензия: MIT
